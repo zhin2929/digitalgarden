@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/java/","hide":true,"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/java/","hide":true,"hideInGraph":true,"noteIcon":"","created":"","updated":""}
 ---
 
 #java
