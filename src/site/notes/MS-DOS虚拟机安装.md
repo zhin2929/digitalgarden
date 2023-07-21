@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/MS-DOS虚拟机安装/","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"dg-path":"笔记/MS-DOS虚拟机安装.md","permalink":"/笔记/MS-DOS虚拟机安装/","noteIcon":"","created":"","updated":""}
 ---
 
 
