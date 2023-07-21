@@ -10,4 +10,16 @@ body {
     //  h1 {
     //   color: black;
     //  }
+    body > div:nth-child(1) > div:nth-child(1) > nav > div.search-button.align-icon {
+        width: 200px;
+    }
+    body > div:nth-child(1) > div:nth-child(1) > nav > div.search-button.align-icon > span.search-text > span.search-keys
+    {
+        cursor: pointer;
+        box-sizing: border-box;
+        font-size: 0.6rem;
+        padding: 0px 2px 0 6px;
+        text-align: center;
+        transform: translateY(4px);
+    }
 }
