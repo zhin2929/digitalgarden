@@ -9,6 +9,8 @@
 
 ![111](/img/user/图片/111.png)
 
+![222](/img/user/图片/222.png)
+
 2. [软驱格式 ms-dos](https://winworldpc.com/product/ms-dos/622) ，其实该步骤就是将第一种安装方式的过程做了。
 ![MS-DOS 虚拟机安装2](/img/user/图片/MS-DOS 虚拟机安装2.png)
 
