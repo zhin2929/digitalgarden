@@ -13,7 +13,7 @@ body {
     div:nth-child(1) > div:nth-child(1) > nav > div.search-button.align-icon {
         width: 200px;
     }
-    div:nth-child(1) > div:nth-child(1) > nav > div.search-button.align-icon > span.search-text > span.search-keys
+    .search-text > span.search-keys
     {
         cursor: pointer;
         box-sizing: border-box;
