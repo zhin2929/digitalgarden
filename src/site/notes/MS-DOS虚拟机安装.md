@@ -7,7 +7,7 @@
 1. 可以选择去 [MSDN 我告诉你](https://msdn.itellyou.cn/) 下载，在搜索栏输入 ms-dos，点开详细信息，复制下载链接，用迅雷或其他支持该格式的下载软件下载。下载解压后需要用刻录软件将文件夹制作成软驱。此步骤略过，使用第二种方式直接下载软驱格式的 ms-dos 系统。
 ![MS-DOS 虚拟机安装1](/img/user/图片/MS-DOS虚拟机安装1.png)
 
-	![Pasted image 20230722053100.png](/img/user/%E5%9B%BE%E7%89%87/Pasted%20image%2020230722053100.png)
+
 1. [软驱格式 ms-dos](https://winworldpc.com/product/ms-dos/622) ，其实该步骤就是将第一种安装方式的过程做了。
 ![MS-DOS 虚拟机安装2](/img/user/图片/MS-DOS 虚拟机安装2.png)
 
