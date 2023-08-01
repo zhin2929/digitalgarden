@@ -1,7 +1,7 @@
 ---
-dg-publish: true
-dg-path: "笔记/MS-DOS虚拟机安装.md"
+{"dg-publish":true,"dg-path":"笔记/MS-DOS虚拟机安装.md","permalink":"/笔记/MS-DOS虚拟机安装/","noteIcon":"1","created":"","updated":""}
 ---
+
 
 ## 下载镜像
 1. 可以选择去 [MSDN 我告诉你](https://msdn.itellyou.cn/) 下载，在搜索栏输入 ms-dos，点开详细信息，复制下载链接，用迅雷或其他支持该格式的下载软件下载。下载解压后需要用刻录软件将文件夹制作成软驱。此步骤略过，使用第二种方式直接下载软驱格式的 ms-dos 系统。
