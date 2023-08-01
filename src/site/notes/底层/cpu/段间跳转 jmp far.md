@@ -6,7 +6,7 @@
 要跳转必须同时修改 `CS:IP`，同时修改 CS 与 EIP 的指令：
 `JMP FAR / CALL FAR / RETF / INT /IRETED`
 
-只改变 EIP 的指令：
+只改变 `IP\EIP\RIP` 的指令：
 `JMP / CALL / JCC / RET`
 
 跨段跳转分为两种：
