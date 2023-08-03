@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"工具/ReSharper 插件的技巧","permalink":"//","noteIcon":"1","created":"","updated":""}
+{"dg-publish":true,"permalink":"/工具/ReSharper/","noteIcon":"1","created":"","updated":""}
 ---
 
 
